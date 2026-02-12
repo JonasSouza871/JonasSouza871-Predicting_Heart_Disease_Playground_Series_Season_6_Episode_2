@@ -1,0 +1,22 @@
+# Estrategias e anotacoes pessoais
+estrategias-melhorias.md
+
+# Submissions
+*.csv
+models/
+
+# Optuna results
+Optuna_results/
+
+# Dados
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
